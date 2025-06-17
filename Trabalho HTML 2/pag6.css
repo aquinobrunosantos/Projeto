@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body{background-color: rgb(255, 234, 209);}
+
+a{text-decoration: none;
+    font-size:20px ; 
+     color: rgb(240, 159, 132);
+     display: inline-block;
+     text-align: center;
+     margin-left: 15px;
+     background-color: rgba(222, 184, 135, 0.582);
+     border-radius:15px ;
+     padding: 10px;
+     width: 80px;} 
+footer{background-color: transparent;
+        position: absolute; 
+        left: 20%;    
+        top: 88%;}
+a:hover{background-color: rgb(228, 182, 98);
+            border-radius: 10px; 
+            color: black;  
+             padding: 10px;  
+             transform: scale(1.2);
+              transition: 1s transform linear;   }
+ main{width: 1080vw;}             
+
+.primeiro{  max-width: 1000px;
+            min-width: 300px;    
+            height: 600px;   
+           
+           
+            }
+
+.d1, .d2, .d3, .d4, .d5, .d6 {width: 280px;
+                              height: 130px;  
+                              display: inline-block;
+                              background-color: rgb(243, 209, 158);
+                              border: 1px blanchedalmond solid;
+                              text-align: center; 
+                              border-radius:10px ;  
+                              font-weight: 800;  
+                              font-size: 20px;   
+                              padding-left: 10px;   }
+
+ .d4 p  {position: relative;
+    top:30%;
+  left: -2%;
+  font-weight: 600;    
+  text-shadow: 1px 1px 1px black; }
+
+ .d5 p  {position: relative;
+    top:30%;
+  left: -2%;
+  font-weight: 600;    
+  text-shadow: 1px 1px 1px black; }
+ 
+ .d6 p {position: relative;
+                top:30%;
+              left: -2%;
+        font-weight: 600;    
+        text-shadow: 1px 1px 1px black;    }
+
+
+.d1{position: absolute;
+    top: 30%;
+    left: 17%;}
+.d2{position: absolute;
+    top: 30%;
+    left: 38%;}
+    .d3{position: absolute;
+        top: 30%;
+        left: 59%;}
+    
+.d4{position: absolute;
+    top: 50%;
+    left: 17%;}                              
+
+.d5{position: absolute;
+    top: 50%;
+    left: 38%;}
+
+.d6{position: absolute;
+        top: 50%;
+        left: 59%;}   
+ h1{font-size: 60px;
+    color:rgb(223, 173, 98);
+    position: absolute;
+        top: 10%;
+        left: 32%;
+        text-shadow: 2px 2px 2px black;}       
+      
