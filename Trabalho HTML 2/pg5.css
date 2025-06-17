@@ -4,6 +4,8 @@
 
 
 
+
+
 body{background-color: rgb(255, 234, 209);}
 
 a{text-decoration: none;
@@ -84,4 +86,4 @@ h1{text-align: center;
    main{max-width: 1030px;
         min-width: 360px;   
         margin: auto; 
-        border: 1 solid red;}
+        border: 1 solid red;} 
