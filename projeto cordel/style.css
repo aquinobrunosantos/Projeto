@@ -44,6 +44,13 @@ section  {padding-top:10vh;
  section p{padding-bottom: 2em;}       
         
 section.imagem > p{display: inline-block;
-                   background-color: rgba(0, 0, 0, 0.425);   
+                   background-color: rgba(0, 0, 0, 514);   
                     padding: 10px; 
-                     }
+                     text-shadow: 1px 1px 0px black;}
+
+section#img01{background-image: url("Imagens/background001.jpg");
+              background-position: right center;
+              background-size: cover;}                     
+
+section#img02{background-image: url('Imagens/background002.jpg');
+              background-size: cover;       }
